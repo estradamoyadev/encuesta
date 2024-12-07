@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.titulo{
+  color: rgb(208, 14, 169);
+}
+
+p{
+  font-size: 20px;
+}
+
+.qr{
+  width: 100px;
+  height: 100px;
+}
+
+input {
+  color: black;
+  border-radius: 10px;
+  background-color: rgb(171, 208, 230);
+  width: 300px; /* Ancho */
+  height: 40px; /* Alto */
+  border: none;
+}
+
+textarea{
+  color: black;
+  border-radius: 10px;
+  background-color: rgb(171, 208, 230);
+  width: 300px; /* Ancho */
+  height: 40px; /* Alto */
+}
+
+button{
+  background-color: rgb(216, 223, 24);
+  color: rgb(0, 0, 0);
+}
